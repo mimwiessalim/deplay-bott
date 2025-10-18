@@ -4,8 +4,8 @@ import time
 import os
 
 # --- CONFIGURACIÓN SEGURA ---
-TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
-CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
+TOKEN = os.getenv("7709737711:AAHCN8hgp27p_LSw9rLqjQhw6LffGd0swME")
+CHAT_ID = os.getenv("5217879590")
 INTERVALO = 60 * 10  # cada 10 minutos
 
 if not TOKEN or not CHAT_ID:
